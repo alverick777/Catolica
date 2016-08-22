@@ -1,0 +1,63 @@
+
+.cuadro{
+	display: inline-block;
+	height: auto;
+	width: 100%;
+	background-color: #4A7ECD;
+	color: #ffffff;
+	font-weight: bold;
+	padding: 10px;
+	margin-top: 10px;
+}
+
+.img-1{
+	height: auto;
+	width: 100%;
+	cursor: pointer;
+	opacity: 0.9;
+}
+
+.img-1:hover{
+	opacity: 1;
+}
+
+.palmares-titulo{
+	color: #4A7ECD;
+	font-weight: bolder;
+	font-size: 16px;
+}
+
+.text-center{
+	text-align: center !important;
+}
+
+.titulopalmares {
+    color: #4A7ECD;
+    line-height: 1.537;    
+}
+
+.year{
+	font-size: 12px;
+}
+
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+	
+	
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+	
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {	
+
+	.palmares-titulo{
+		color: #4A7ECD;		
+		font-weight: bolder;
+		font-size: 16px;
+	}
+}

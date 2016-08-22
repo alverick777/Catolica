@@ -1,0 +1,40 @@
+
+
+.container-fluid{
+	background-color: #4A7ECD;
+	color: white;
+}
+
+.navbar-default .navbar-brand:hover {
+    color: #ffffff;
+}
+.navbar-header .navbar-brand{
+	color: white;
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #1D5897;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+
+#bs-example-navbar-collapse-1 .dropdown-menu{
+	background-color: #4A7ECD;
+}
+
+#bs-example-navbar-collapse-1 ul li a{
+	background-color: #4A7ECD;
+	color: white;
+}
+
+#bs-example-navbar-collapse-1 ul li a:hover {
+    background-color: #399AEA;
+    color: white;
+}
+
+
+
+
+
